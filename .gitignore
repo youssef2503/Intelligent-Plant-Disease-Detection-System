@@ -1,0 +1,14 @@
+venv1/
+dataset/
+models/
+outputs/
+test/
+__pycache__/
+
+00_fix_paths.py
+00_generate_mapping.py
+test_gpu.py
+00_generate_mapping
+
+*.pyc
+.DS_Store
